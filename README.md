@@ -36,9 +36,6 @@ identity "defines" whoever holds it, that is, it establishes the *fines* — the
 boundaries — of the subject, and in doing so necessarily also determines its 
 center.
 
-Not holding one's identity means being a subjected one, an *a-subject* — a 
-non-subject. The two dimensions go hand in hand.
-
 ## The State and Digital Identity
 
 In the mainstream narrative, identity is a concept typically associated with 
